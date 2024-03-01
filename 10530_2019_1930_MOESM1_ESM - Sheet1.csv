@@ -1,0 +1,608 @@
+Database,Year,Locality,River,Water Management Area,Habitat,Province,Latitude,Longitude,Species
+CFR,1983,Aberdeen Plain,Elands,Swartkops,River,Western Cape,-33.81944,25.21722,Micropterus salmoides
+CFR,2015,Aberdeen Plain,Gamtoos,Gamtoos,River,Western Cape,-32.98730217,24.00028483,Micropterus punctulatus
+CFR,1986,Barrydale,Tradou,Breede,River,Western Cape,-33.91806,20.63278,Micropterus salmoides
+CFR,2001,Barrydale,Breede,Breede,River,Western Cape,-34.152604,20.478008,Micropterus dolomieu
+CFR,2001,Barrydale,Breede,Breede,River,Western Cape,-34.152604,20.478008,Micropterus salmoides
+CFR,1983,Bizana,Diep,Gouritz,River,Western Cape,-31.08333,30.18333,Micropterus salmoides
+CFR,1977,Breede,Riet,Olifants W,River,Western Cape,-32.85,19.48333,Micropterus salmoides
+CFR,1977,Breede,Breede,Breede,River,Western Cape,-32.86,19.441,Micropterus salmoides
+CFR,1998,Breede,Ratel,Olifants W,River,Western Cape,-32.9,19.46666667,Micropterus salmoides
+CFR,2013,Breede,Thee,Olifants W,River,Western Cape,-32.4892,19.7286,Micropterus punctulatus
+CFR,2014,Breede,Riet,Olifants W,River,Western Cape,-32.7715,19.51388,Micropterus salmoides
+CFR,2014,Breede,Riet,Olifants W,River,Western Cape,-32.84010556,19.52361111,Micropterus salmoides
+CFR,2001,Caledon,Riviersonderend,Breede,River,Western Cape,-34.012282,19.558616,Micropterus dolomieu
+CFR,2001,Caledon,Riviersonderend,Breede,River,Western Cape,-34.012282,19.558616,Micropterus salmoides
+CFR,1983,Cape Agulhas ,Nuwejaars,Berg,River,Western Cape,-34.63333,19.85,Micropterus salmoides
+CFR,1980,Cape Winelands,Tributary,Olifants W,River,Western Cape,-33.053,19.326,Micropterus dolomieu
+CFR,1997,Cape Winelands,Twee,Olifants W,River,Western Cape,-32.688333,19.281111,Micropterus dolomieu
+CFR,2001,Cape Winelands,Elands,Breede,River,Western Cape,-33.739971,19.114385,Micropterus salmoides
+CFR,2003,Cape Winelands,Wit,Breede,River,Western Cape,-33.570242,19.141331,Micropterus dolomieu
+CFR,2003,Cape Winelands,Hex,Breede,River,Western Cape,-33.558346,19.511946,Micropterus dolomieu
+CFR,2008,Cape Winelands,Wolwekloof,Breede,River,Western Cape,-33.56505556,19.13144444,Micropterus dolomieu
+CFR,2009,Cape Winelands,Stettynskloof,Breede,River,Western Cape,-33.8273,19.222533,Micropterus dolomieu
+CFR,2014,Cape Winelands,Olifants,Olifants W,River,Western Cape,-33.00664,19.2015,Micropterus dolomieu
+CFR,2014,Cape Winelands,Diepkloof,Olifants W,River,Western Cape,-32.91706389,19.18285,Micropterus dolomieu
+CFR,2014,Cape Winelands,Leeu,Olifants W,River,Western Cape,-32.76442778,19.286875,Micropterus dolomieu
+CFR,1998,Cederberg,Heks,Olifants W,River,Western Cape,-32.43777778,19.01166667,Micropterus dolomieu
+CFR,2002,Cederberg,Breekkrans,Olifants W,River,Western Cape,-32.5594,19.2992,Micropterus salmoides
+CFR,2006,Cederberg,Driehoeks,Olifants W,River,Western Cape,-32.426981,19.140397,Micropterus salmoides
+CFR,1983,Ceres,Uitkyk,Breede,River,Western Cape,-33.46667,19.16667,Micropterus dolomieu
+CFR,1983,Ceres,Klein Berg,Berg,River,Western Cape,-33.3,19.06667,Micropterus salmoides
+CFR,1996,Ceres,Heks,Olifants W,River,Western Cape,-32.710278,19.316111,Micropterus dolomieu
+CFR,2001,Ceres,Breede,Breede,River,Western Cape,-33.524771,19.195101,Micropterus salmoides
+CFR,2009,Ceres,Elands,Breede,River,Western Cape,-33.558683,19.344133,Micropterus dolomieu
+CFR,2010,Ceres,Thee,Olifants W,River,Western Cape,-33.34505278,19.18949444,Micropterus punctulatus
+CFR,2014,Ceres,Twee,Olifants W,River,Western Cape,-32.69802,19.31071,Micropterus punctulatus
+CFR,1973,Citrusdal,Tra-tra,Olifants W,River,Western Cape,-32.28333,19.21667,Micropterus salmoides
+CFR,1977,Citrusdal,Olifants,Olifants W,River,Western Cape,-32.58333,19,Micropterus salmoides
+CFR,1979,Citrusdal,Rondegat,Olifants W,River,Western Cape,-32.258,18.949,Micropterus salmoides
+CFR,1980,Citrusdal,Doring,Olifants W,River,Western Cape,-31.925,18.686,Micropterus salmoides
+CFR,1980,Citrusdal,Heuningvlei,Olifants W,River,Western Cape,-32.153,19.186,Micropterus salmoides
+CFR,1980,Citrusdal,Krom,Olifants W,River,Western Cape,-32.541,19.285,Micropterus salmoides
+CFR,1982,Citrusdal,Krom,Olifants W,River,Western Cape,-32.518,19.355,Micropterus salmoides
+CFR,1987,Citrusdal,Brandkraal,Olifants W,River,Western Cape,-32.565,19.36361,Micropterus salmoides
+CFR,1988,Citrusdal,Breekkrans,Olifants W,River,Western Cape,-32.565,19.364,Micropterus dolomieu
+CFR,1992,Citrusdal,Oudste,Olifants W,River,Western Cape,-32.836,19.083,Micropterus dolomieu
+CFR,1998,Citrusdal,Jan Diessels,Olifants W,River,Western Cape,-32.21888889,18.99388889,Micropterus dolomieu
+CFR,1998,Citrusdal,Biedou ,Olifants W,River,Western Cape,-32.15305556,19.18638889,Micropterus dolomieu
+CFR,1998,Citrusdal,Olifants,Olifants W,River,Western Cape,-32.84222222,19.07944444,Micropterus punctulatus
+CFR,1998,Citrusdal,Oudste,Olifants W,River,Western Cape,-32.835,19.08166667,Micropterus punctulatus
+CFR,1998,Citrusdal,Olifants,Olifants W,River,Western Cape,-32.84222222,19.07944444,Micropterus salmoides
+CFR,2001,Citrusdal,Olifants,Olifants W,River,Western Cape,-31.97222222,18.74638889,Micropterus dolomieu
+CFR,2001,Citrusdal,Doring,Olifants W,River,Western Cape,-31.85663,18.91347,Micropterus dolomieu
+CFR,2001,Citrusdal,Doring,Olifants W,River,Western Cape,-31.97277778,19.22388889,Micropterus dolomieu
+CFR,2001,Citrusdal,Doring,Olifants W,River,Western Cape,-32.12138889,19.48805556,Micropterus dolomieu
+CFR,2001,Citrusdal,Doring,Olifants W,River,Western Cape,-32.12138889,19.48805556,Micropterus punctulatus
+CFR,2001,Citrusdal,Doring,Olifants W,River,Western Cape,-31.97277778,19.22388889,Micropterus salmoides
+CFR,2001,Citrusdal,Olifants,Olifants W,River,Western Cape,-32.86055556,19.08527778,Micropterus salmoides
+CFR,2003,Citrusdal,Doring,Olifants W,River,Western Cape,-31.85663,18.91347,Micropterus punctulatus
+CFR,2013,Citrusdal,Eselbank,Olifants W,River,Western Cape,-32.33516667,19.24552778,Micropterus dolomieu
+CFR,2014,Citrusdal,Boontjies,Olifants W,River,Western Cape,-32.57930556,19.04153333,Micropterus dolomieu
+CFR,2014,Citrusdal,Matjies,Olifants W,River,Western Cape,-32.5125,19.44836111,Micropterus dolomieu
+CFR,2014,Citrusdal,Biedou ,Olifants W,River,Western Cape,-32.159575,19.17703056,Micropterus punctulatus
+CFR,1998,Clanwilliam,Olifants,Olifants W,River,Western Cape,-32.184,18.874,Micropterus dolomieu
+CFR,2015,Cradock,Swartkops,Sundays,River,Western Cape,-32.30358333,25.02443333,Micropterus dolomieu
+CFR,2015,Cradock,Swartkops,Great Fish,River,Western Cape,-32.30086667,25.30396667,Micropterus dolomieu
+CFR,2015,Cradock,Swartkops,Swartkops,River,Western Cape,-32.30711667,25.31035,Micropterus salmoides
+CFR,2015,Cradock,Swartkops,Great Fish,River,Western Cape,-32.30358333,25.02443333,Micropterus salmoides
+CFR,2002,Esterville,Berg,Berg,River,Western Cape,-33.736694,18.971639,Micropterus salmoides
+CFR,2001,Greyton,Baviaans,Breede,River,Western Cape,-34.072606,19.618026,Micropterus dolomieu
+CFR,2001,Greyton,Baviaans,Breede,River,Western Cape,-34.072606,19.618026,Micropterus salmoides
+CFR,2002,Hawequas,Wemmershoek,Berg,River,Western Cape,-33.834793,19.082822,Micropterus dolomieu
+CFR,2009,Hawequas,Tierstel,Breede,River,Western Cape,-33.73185,19.26385,Micropterus dolomieu
+CFR,2013,Hawequas,Wolwekloof,Breede,River,Western Cape,-33.552092,19.144945,Micropterus dolomieu
+CFR,2000,Heidelberg,Hartenbos,Breede,River,Western Cape,-34.09778,21.02611,Micropterus salmoides
+CFR,2014,Helderberg,Sir Lowry's Pass,Berg,River,Western Cape,-34.12372,18.89244,Micropterus dolomieu
+CFR,1990,Kareedouw,Opkoms,Gamtoos,River,Western Cape,-33.76944,24.02028,Micropterus dolomieu
+CFR,2001,Kareedouw,Storms,Krom,River,Western Cape,-34.015374,23.888009,Micropterus salmoides
+CFR,2006,Kareedouw,Krom,Olifants W,River,Western Cape,-33.86324,24.0017,Micropterus salmoides
+CFR,2015,Kareedouw,Opkoms,Gamtoos,River,Western Cape,-33.767789,24.020553,Micropterus punctulatus
+CFR,2015,Kareedouw,Bos,Gamtoos,River,Western Cape,-33.73357,24.015222,Micropterus punctulatus
+CFR,2015,Kareedouw,Gamtoos,Gamtoos,River,Western Cape,-33.739534,24.013272,Micropterus punctulatus
+CFR,1972,Kirkwood,Wit,Sundays,River,Western Cape,-33.4,25.55,Micropterus salmoides
+CFR,2014,Kogelberg,Steenbras,Berg,River,Western Cape,-34.19413,18.82439,Micropterus dolomieu
+CFR,1986,Ladismith,Huis,Gouritz,River,Western Cape,-33.5075,21.60306,Micropterus salmoides
+CFR,1986,Ladismith,Gamkapoort dam,Gouritz,Dam,Western Cape,-33.63528,21.30639,Micropterus salmoides
+CFR,2000,Ladismith,Groot,Olifants W,River,Western Cape,-33.73861,21.56472,Micropterus dolomieu
+CFR,1986,Malmesbury,Vink,Berg,River,Western Cape,-33.40722,18.64833,Micropterus salmoides
+CFR,2002,Malmesbury,Berg,Berg,River,Western Cape,-32.998167,18.780528,Micropterus dolomieu
+CFR,2002,Malmesbury,Berg,Berg,River,Western Cape,-33.298781,18.98738,Micropterus dolomieu
+CFR,2002,Malmesbury,Berg,Berg,River,Western Cape,-33.298781,18.98738,Micropterus salmoides
+CFR,2003,Malmesbury,Berg,Berg,River,Western Cape,-33.101108,18.841092,Micropterus punctulatus
+CFR,2000,Mossel Bay,Hartenbos,Krom,River,Western Cape,-34.097778,22.026112,Micropterus salmoides
+CFR,1982,Namaqualand,Tankwa,Olifants W,River,Western Cape,-32.284,19.521,Micropterus dolomieu
+CFR,1987,Namaqualand,Tankwa,Olifants W,River,Western Cape,-32.284,19.521,Micropterus salmoides
+CFR,1994,Namaqualand,Doring,Olifants W,River,Western Cape,-32.509,19.546,Micropterus salmoides
+CFR,2001,Namaqualand,Doring,Olifants W,River,Western Cape,-32.34444444,19.48333333,Micropterus dolomieu
+CFR,2001,Namaqualand,Doring,Olifants W,River,Western Cape,-32.5027,19.53516,Micropterus punctulatus
+CFR,2001,Namaqualand,Groot,Olifants W,River,Western Cape,-32.54444444,19.54388889,Micropterus punctulatus
+CFR,2002,Oosbosch,Berg,Berg,River,Western Cape,-33.715806,18.972222,Micropterus punctulatus
+CFR,1986,Paarl,Klein Berg,Berg,River,Western Cape,-33.21667,19.11833,Micropterus salmoides
+CFR,2002,Paarl,Klein Berg,Berg,River,Western Cape,-33.312002,19.073846,Micropterus dolomieu
+CFR,2002,Paarl,Berg,Berg,River,Western Cape,-33.795528,18.963806,Micropterus dolomieu
+CFR,2002,Paarl,Berg,Berg,River,Western Cape,-33.5135,18.976722,Micropterus punctulatus
+CFR,1963,Riversdale,Vutte,Breede,River,Western Cape,-34.0833,21.2333,Micropterus salmoides
+CFR,1986,Robertson,Breede,Breede,River,Western Cape,-34.00222,20.20639,Micropterus salmoides
+CFR,1988,Robertson,Kogmanskloof,Breede,River,Western Cape,-33.82722,20.0875,Micropterus salmoides
+CFR,2001,Robertson,Breede,Breede,River,Western Cape,-33.814184,19.694709,Micropterus salmoides
+CFR,2007,Somerset East,Sundays,Sundays,River,Western Cape,-32.62805,25.67405,Micropterus salmoides
+CFR,2015,Somerset East,Swartkops,Sundays,River,Western Cape,-32.92246667,25.30166667,Micropterus dolomieu
+CFR,2015,Somerset East,Swartkops,Sundays,River,Western Cape,-32.92246667,25.30166667,Micropterus salmoides
+CFR,2002,Stellenbosch,Berg,Berg,River,Western Cape,-33.879444,19.037556,Micropterus dolomieu
+CFR,2014,Stellenbosch,Wemmers,Berg,River,Western Cape,-33.85348,19.04055,Micropterus dolomieu
+CFR,1986,Suurbraak,Buffeljags,Breede,River,Western Cape,-34.02,20.65333,Micropterus salmoides
+CFR,1986,Swellendam,Klip,Breede,River,Western Cape,-34.02444,20.41889,Micropterus salmoides
+CFR,1988,Uitenhage,Maitland,Swartkops,River,Western Cape,-33.95833,25.275,Micropterus salmoides
+CFR,1992,Velddrif,Olifants,Olifants W,River,Western Cape,-32.888,19.095,Micropterus dolomieu
+CFR,1998,Velddrif,Ratel,Olifants W,River,Western Cape,-32.86916667,19.08472222,Micropterus salmoides
+CFR,2014,Velddrif,Ratel,Olifants W,River,Western Cape,-32.87126111,19.08521111,Micropterus dolomieu
+CFR,2015,Velddrif,Berg,Berg,River,Western Cape,-32.99801,18.78042,Micropterus punctulatus
+CFR,1987,Vredendal,Koebee,Olifants W,River,Western Cape,-31.593,19.076,Micropterus salmoides
+CFR,2003,Vredendal,Olifants,Olifants W,River,Western Cape,-31.59791,18.4136,Micropterus dolomieu
+CFR,2003,Vredendal,Olifants,Olifants W,River,Western Cape,-31.83619,18.6209,Micropterus dolomieu
+CFR,2003,Vredendal,Koebee,Olifants W,River,Western Cape,-31.73,19.07,Micropterus dolomieu
+CFR,2003,Vredendal,Olifants,Olifants W,River,Western Cape,-31.83619,18.6209,Micropterus punctulatus
+CFR,1986,Wellington,Berg,Berg,River,Western Cape,-33.62944,18.97694,Micropterus salmoides
+CFR,1986,Wellington,Spruit,Berg,River,Western Cape,-33.64639,19.01611,Micropterus salmoides
+CFR,2014,West Coast DC,Heks,Olifants W,River,Western Cape,-32.50130278,19.11253333,Micropterus dolomieu
+CFR,1987,Willowmore,Groot,Gamtoos,River,Western Cape,-33.57,24.65528,Micropterus salmoides
+CFR,2011,Winterhoek,Thee,Olifants W,River,Western Cape,-32.808437,19.112395,Micropterus punctulatus
+CFR,2013,Winterhoek,Dwars,Olifants W,River,Western Cape,-32.91289,19.122631,Micropterus dolomieu
+CFR,2013,Winterhoek,Dwars,Olifants W,River,Western Cape,-32.91256,19.12156,Micropterus punctulatus
+CFR,2014,Wuppertal,Tra-tra,Olifants W,River,Western Cape,-32.28055,19.216525,Micropterus dolomieu
+CFR,2014,Wuppertal,Tra-tra,Olifants W,River,Western Cape,-32.28055,19.216525,Micropterus punctulatus
+EKZNW,1979,"Albert Falls Dam, Kyalami",Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.4239,30.37861,Micropterus salmoides
+EKZNW,1992,"Albert Falls Dam, Umgeni inlet",Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.4489,30.34806,Micropterus dolomieu
+EKZNW,1988,"Ashton dam, New Hanover",,Mkomazi,Pond,KwaZulu-Natal,-29.26279,30.58833,Micropterus salmoides
+EKZNW,1987,"Blinkwater 959, farm dam near York",,Mkomazi,Pond,KwaZulu-Natal,-29.2614,30.47722,Micropterus salmoides
+EKZNW,1972,"Bloemveld dam, Vryheid",Amagoda,Mfolozi,Dam,KwaZulu-Natal,-27.72388,30.74529,Micropterus salmoides
+EKZNW,1968,Durnacol dam 2,,Tugela,Pond,KwaZulu-Natal,-28.03617,30.01491,Micropterus salmoides
+EKZNW,1985,"Forbesdale dam, (Kusel) near Glenside",,Mkomazi,Pond,KwaZulu-Natal,-29.40168,30.76194,Micropterus punctulatus
+EKZNW,1970,"Grootgewacht dam, Vryheid",Amagoda,Mfolozi,Dam,KwaZulu-Natal,-27.71555,30.79807,Micropterus salmoides
+EKZNW,1988,"Heinespruit tributary, Hartebeesvlakte, Greytown",Heinespruit,Mkomazi,River,KwaZulu-Natal,-29.12112,30.59528,Micropterus salmoides
+EKZNW,1946,Howick,Karkloof,Mkomazi,River,KwaZulu-Natal,-29.35167,30.26195,Micropterus dolomieu
+EKZNW,1998,Kongweni estuary,Kongweni,Mzimvubu,River,KwaZulu-Natal,-30.859726,30.373276,Micropterus punctulatus
+EKZNW,2012,"Matigulu River, Matigulu (3)",Matigulu,Mfolozi,River,KwaZulu-Natal,-29.05157,31.52628,Micropterus salmoides
+EKZNW,1998,Mbizana estuary,Mbizane,Mzimvubu,River,KwaZulu-Natal,-30.90885,30.33142,Micropterus punctulatus
+EKZNW,2006,"Mdloti River, Durban",Mdloti,Mkomazi,River,KwaZulu-Natal,-29.64708,31.09161,Micropterus salmoides
+EKZNW,1978,"Merthley Lake, Greytown",,Mkomazi,Lake,KwaZulu-Natal,-29.03223,30.56056,Micropterus salmoides
+EKZNW,1990,Mhlanga Estuary,Ohlanga,Mkomazi,River,KwaZulu-Natal,-29.70249,31.09962,Micropterus salmoides
+EKZNW,2006,"Mhlathuzana River, Durban, Kloof, Lello Road",Mhlathuzana,Mkomazi,River,KwaZulu-Natal,-29.76113,30.73977,Micropterus salmoides
+EKZNW,1969,Midmar dam,Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.50167,30.17861,Micropterus punctulatus
+EKZNW,1992,"Mkabela river, Windy Hill, near Wartburg",Mkhabela,Mkomazi,River,KwaZulu-Natal,-29.51418,30.60444,Micropterus salmoides
+EKZNW,2012,Mlazi River,Mlazi,Tugela,River,KwaZulu-Natal,-29.756,30.289,Micropterus salmoides
+EKZNW,2012,Mlazi River,Mlazi,Tugela,River,KwaZulu-Natal,-28.80972,30.5,Micropterus salmoides
+EKZNW,2006,Mlazi River eKwaNdengazi,Mlazi,Mkomazi,River,KwaZulu-Natal,-29.86885,30.78113,Micropterus dolomieu
+EKZNW,1991,"Mooi river, Rosetta",Mooi,Tugela,River,KwaZulu-Natal,-29.30166,29.97307,Micropterus punctulatus
+EKZNW,1964,"Mooi river, Rosetta, stn 73",Mooi,Tugela,River,KwaZulu-Natal,-29.30305,29.71752,Micropterus dolomieu
+EKZNW,1991,"Mpolweni river, Broughton, near York",Mpolweni,Mkomazi,River,KwaZulu-Natal,-29.38279,30.455,Micropterus salmoides
+EKZNW,1992,"Msunduze river, Camps Drift, Pietermaritzburg",Msunduzi,Mkomazi,River,KwaZulu-Natal,-29.61695,30.37305,Micropterus salmoides
+EKZNW,1991,"Msunduze river, Gezubuso bridge",Msunduzi,Mkomazi,River,KwaZulu-Natal,-29.66695,30.21806,Micropterus salmoides
+EKZNW,1998,Mtwalume Estuary,Mtwalume,Mkomazi,River,KwaZulu-Natal,-30.48571,30.63441,Micropterus dolomieu
+EKZNW,1992,"Nkutu river, Eldorado Waterfall",Nkutu,Mkomazi,River,KwaZulu-Natal,-29.74835,30.80915,Micropterus salmoides
+EKZNW,1991,"Noneni stream, Mooi river confluence",Mooi,Tugela,River,KwaZulu-Natal,-29.08222,30.23695,Micropterus dolomieu
+EKZNW,1978,Paulpietersburg municipal dam,,Mfolozi,Dam,KwaZulu-Natal,-27.44054,30.79252,Micropterus salmoides
+EKZNW,1980,"Rondebosch farm dam, near Mooi River",Mooi,Tugela,River,KwaZulu-Natal,-29.27667,30.02584,Micropterus salmoides
+EKZNW,1992,"Roselands dam, Margate",Bilanhlolo,Mkomazi,Dam,KwaZulu-Natal,-30.86697,30.32304,Micropterus salmoides
+EKZNW,2005,"Sandspruit, Bergville",Sandspruit,Tugela,River,KwaZulu-Natal,-28.71700653,29.34609102,Micropterus salmoides
+EKZNW,1965,"Slang river, below D215, stn 66",Slang,Tugela,River,KwaZulu-Natal,-27.42109,29.96892,Micropterus dolomieu
+EKZNW,1987,"Smedmore new dam, near Mtamvuna Nature Reserve",Mtamvuna,Mzimvubu,Pond,KwaZulu-Natal,-30.95585,30.15638,Micropterus salmoides
+EKZNW,1987,"Smedmore new dam, near Mtamvuna Nature Reserve",Mtamvuna,Mzimvubu,Pond,KwaZulu-Natal,-30.95863,30.14943,Micropterus salmoides
+EKZNW,1977,"Solms' dam, Vryheid-Paulpietersburg road",,Mfolozi,Pond,KwaZulu-Natal,-27.54888,30.71196,Micropterus salmoides
+EKZNW,1946,Sontwayo Pan,,Mfolozi,Pond,KwaZulu-Natal,-28.78642,32.09942,Micropterus salmoides
+EKZNW,1972,"Surrey farm dam, Nottingham Road",Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.43778,29.91751,Micropterus salmoides
+EKZNW,1990,"Thoteng bottom dam, Lions River",Lions,Mkomazi,Pond,KwaZulu-Natal,-29.46028,30.11751,Micropterus salmoides
+EKZNW,1990,"Thoteng middle, dam Lions River",Lions,Mkomazi,Pond,KwaZulu-Natal,-29.45861,30.11695,Micropterus salmoides
+EKZNW,1990,"Thoteng top dam, Lions River",Lions,Mkomazi,Pond,KwaZulu-Natal,-29.45611,30.11195,Micropterus salmoides
+EKZNW,1984,"Tulley's dam, Elderslie, near Howick",,Mkomazi,Pond,KwaZulu-Natal,-29.44195,30.19112,Micropterus dolomieu
+EKZNW,1984,"Tulley's dam, Elderslie, near Howick",,Mkomazi,Pond,KwaZulu-Natal,-29.44195,30.19112,Micropterus punctulatus
+EKZNW,1975,"Tweediedale dam, Dannhauser",,Tugela,Pond,KwaZulu-Natal,-28.00165,30.0578,Micropterus salmoides
+EKZNW,2005,"Umgeni River, Avenol Farm",Mgeni,Mkomazi,River,KwaZulu-Natal,-29.50736,29.99174,Micropterus dolomieu
+EKZNW,2005,"Umgeni River, Corrie Lynn Farm (Fowler farming)",Mgeni,Mkomazi,River,KwaZulu-Natal,-29.51118,30.09734,Micropterus punctulatus
+EKZNW,2006,"Umgeni River, Downstream Confluence with Duzi and Slide Rivers",Mgeni,Mkomazi,River,KwaZulu-Natal,-29.63609,30.68982,Micropterus salmoides
+EKZNW,1988,"Underbush dam, near Creighton",,Mzimvubu,Pond,KwaZulu-Natal,-29.97195,29.80778,Micropterus salmoides
+EKZNW,1988,"Vernon Crookes Nature Reserve, big dam",Emhlanga,Mzimvubu,Pond,KwaZulu-Natal,-30.26835,30.60415,Micropterus salmoides
+EKZNW,1988,"Vernon Crookes Nature Reserve, small dam",Emhlanga,Mzimvubu,Pond,KwaZulu-Natal,-30.26558,30.58832,Micropterus salmoides
+EKZNW,1986,"Weston College dam, Mooi River",Mooi,Tugela,Pond,KwaZulu-Natal,-29.21833,30.02862,Micropterus punctulatus
+EKZNW,1998,Zotsha Estuary,Zotsha,Mzimvubu,River,KwaZulu-Natal,-30.78232,30.42393,Micropterus dolomieu
+Literature,2009,Bivane Dam,Bivane,Mfolozi,Dam,KwaZulu-Natal,-27.518358,31.03157,Micropterus salmoides
+Literature,2014,Bloemhoek Dam,,Vaal,Dam,Free State,-27.637579,27.283769,Micropterus salmoides
+Literature,2016,Bongolo dam ,Komani,Kei,Dam,Eastern Cape,-31.86916667,26.92222222,Micropterus salmoides
+Literature,2014,Brandvlei Dam,Breede,Breede,Dam,Western Cape,-33.713488,19.429321,Micropterus salmoides
+Literature,2010,Cape Winelands,Wit,Breede,River,Western Cape,-33.570242,19.141331,Micropterus salmoides
+Literature,2013,Cederberg,Rondegat,Olifants W,River,Western Cape,-32.257393,18.950167,Micropterus dolomieu
+Literature,2010,Clanwilliam Dam,Olifants,Olifants W,Dam,Western Cape,-32.222241,18.906956,Micropterus dolomieu
+Literature,2014,Dizamba,Mdizeni,Keiskamma,Dam,Eastern Cape,-32.843803,27.225243,Micropterus salmoides
+Literature,2014,Douglas Dam,Kowie,Bushmans,Dam,Eastern Cape,-33.321083,26.520847,Micropterus salmoides
+Literature,2009,Elandsjacht/Impofu Dam,Krom,Krom,Dam,Eastern Cape,-34.094385,24.686057,Micropterus dolomieu
+Literature,2016,Elandsjacht/Impofu Dam,Krom,Krom,Dam,Eastern Cape,-34.094385,24.686057,Micropterus salmoides
+Literature,2013,Erfenis Dam,Vet,Vaal,Dam,Free State,-28.529787,26.807077,Micropterus salmoides
+Literature,2010,Goedertrouw Dam,Mhlatuze,Mkomazi,Dam,KwaZulu-Natal,-28.773189,31.437893,Micropterus salmoides
+Literature,2014,Grassridge,Groot brak,Great Fish,Dam,Eastern Cape,-31.749826,25.464557,Micropterus salmoides
+Literature,2014,Grey Dam,Kowie,Bushmans,Dam,Eastern Cape,-33.324661,26.527649,Micropterus salmoides
+Literature,2016,Groendal Wilderness,Blindekloof,Swartkops,Dam,Eastern Cape,-33.68333435,25.29999924,Micropterus salmoides
+Literature,2012,Groenvlei,,Krom,Lake,Western Cape,-34.029207,22.850382,Micropterus dolomieu
+Literature,2014,Hartbeespoort,Magalies,Olifants N,Dam,North West,-25.745846,27.860883,Micropterus salmoides
+Literature,2016,Hartenbos River above Hartebeeskuildam,Hartenbos,Krom,Dam,Western Cape,-34.08889007,21.95361137,Micropterus salmoides
+Literature,2014,Jameson,New Years,Bushmans,Dam,Eastern Cape,-33.317742,26.440157,Micropterus salmoides
+Literature,2016,Kouga Dam,Kouga,Gamtoos,Dam,Eastern Cape,-33.701993,24.543285,Micropterus salmoides
+Literature,2002,Kwaggaskloof ,Doring,Olifants W,Dam,Western Cape,-33.771157,19.428635,Micropterus dolomieu
+Literature,2010,Midmar Dam,Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.502852,30.190001,Micropterus dolomieu
+Literature,2000,Misverstand,Berg,Berg,Dam,Western Cape,-33.029015,18.792764,Micropterus dolomieu
+Literature,2010,Mokolo Dam,Mokolo ,Limpopo,Dam,Limpopo,-24.005912,27.705399,Micropterus salmoides
+Literature,2012,Moutloatsi Setlogelo Dam,Kgabanyane,Vaal,Dam,Free State,-29.296136,26.865249,Micropterus salmoides
+Literature,2006,Port Alfred,Kowie,Bushmans,River,Eastern Cape,-33.543925,26.781194,Micropterus salmoides
+Literature,2014,Roodekoppies,Krokodil,Limpopo,Dam,North West,-25.412316,27.586268,Micropterus salmoides
+Literature,2015,Sarel Hayward Dam,Kowie,Bushmans,Dam,Eastern Cape,-33.532549,26.78332,Micropterus salmoides
+Literature,2014,Sol Plaatjie Dam,As,Vaal,Dam,Free State,-28.221952,28.36795,Micropterus salmoides
+Literature,2014,Sterkfontein Dam,Nuwejaars,Vaal,Dam,Free State,-28.432317,29.020042,Micropterus salmoides
+Literature,2004,Theewaterskloof Dam,Riviersonderend,Breede,Dam,Western Cape,-34.014534,19.165993,Micropterus salmoides
+Literature,2010,Tzaneen Dam,Groot Letaba,Olifants N,Dam,Limpopo,-23.793611,30.163333,Micropterus salmoides
+Literature,2016,Umtata,Mtata,Mzimvubu,Dam,Eastern Cape,-31.509997,28.696065,Micropterus salmoides
+Literature,2013,Vaal River ,Vaal,Vaal,River,Gauteng,-26.764337,27.685282,Micropterus salmoides
+Literature,2012,Witbank Dam,Olifants,Olifants N,Dam,Mpumalanga,-25.912119,29.314442,Micropterus salmoides
+Literature,2007,Wriggleswade Dam,Kubusi,Kei,Dam,Eastern Cape,-32.592292,27.553947,Micropterus salmoides
+MTPA,2014,Blesboklaagte 488 js,Rietkuilspruit,Olifants N,River,Mpumalanga,-25.96494,29.72571,Micropterus salmoides
+MTPA,2011,Boterfontein 101 hs,Sandspruit,Vaal,River,Mpumalanga,-27.24374962,29.59969521,Micropterus salmoides
+MTPA,2000,Ishlelo 441 it,Hlelo,Mfolozi,River,Mpumalanga,-26.819947,30.716692,Micropterus salmoides
+MTPA,2013,Malelane 389 ju,Krokodil,Komati,River,Mpumalanga,-25.53738976,31.5063324,Micropterus salmoides
+MTPA,1987,Middelburg town and townlands 287 js,Klein olifants,Olifants N,River,Mpumalanga,-25.750276,29.456217,Micropterus salmoides
+MTPA,2013,Spago 460 ju,Krokodil,Komati,Dam,Mpumalanga,-25.55663872,31.50736046,Micropterus salmoides
+MTPA,2014,Zululand 469 js,Klein olifants,Olifants N,River,Mpumalanga,-25.87751,29.63063,Micropterus salmoides
+SAIAB,1992,Above Henley dam,Umsinduzi,Mkomazi,River,KwaZulu-Natal,-29.64444444,30.25972222,Micropterus punctulatus
+SAIAB,2002,Above lower weir,Hex,Olifants W,River,Western Cape,-32.44027709,18.9794445,Micropterus dolomieu
+SAIAB,2002,Above lower weir,Hex,Olifants W,River,Western Cape,-32.44027709,18.9794445,Micropterus salmoides
+SAIAB,2004,"Africa house Beaverlac estates lower Ratels, Between Piketberg and Citrusdal",Ratel,Olifants W,River,Western Cape,-32.87255556,19.08472222,Micropterus punctulatus
+SAIAB,1983,Amherst Farm; Causeway - Seymour/Fort Beaufort gravel road,Kat ,Great Fish,River,Eastern Cape,-32.64083333,26.68333333,Micropterus salmoides
+SAIAB,2012,At bridge of road north of Wittedrift,Boontjies,Krom,River,Western Cape,-34.00302,23.33409,Micropterus salmoides
+SAIAB,1998,At road bridge to upper Boskloof,Boontjies,Olifants W,River,Western Cape,-32.57749938,19.02361107,Micropterus punctulatus
+SAIAB,1995,Baynefield,Mlazi,Mkomazi,River,KwaZulu-Natal,-29.75416667,30.35694444,Micropterus punctulatus
+SAIAB,1990,Below Comrie dam,Ngudwini,Mkomazi,River,KwaZulu-Natal,-29.87972222,29.93055556,Micropterus salmoides
+SAIAB,1997,Below Howisons Poort Dam on dirt road Bridge,Palmiet ,Keiskamma,River,Eastern Cape,-33.40000152,26.5,Micropterus punctulatus
+SAIAB,1997,Below Inanda dam; Below Inanda dam wall,Mgeni,Mkomazi,River,KwaZulu-Natal,-29.72972222,30.90138889,Micropterus salmoides
+SAIAB,1987,Below Kokstad; Causeway on Farm Waterfall,Mzintlava,Mzimvubu,River,Eastern Cape,-30.57083333,29.34583333,Micropterus punctulatus
+SAIAB,1993,Below Mooi Falls; On Winterhoek,Mooi,Tugela,River,KwaZulu-Natal,-29.04861111,30.30694444,Micropterus dolomieu
+SAIAB,2005,Below railway bridge aMakwatha spruit before confluence with Besterspruit,Besterspruit,Mfolozi,River,KwaZulu-Natal,-27.76666641,30.84638977,Micropterus punctulatus
+SAIAB,2014,Below the bridge on the road to Kruger Mpumalanga International airport,White,Komati,River,Mpumalanga,-25.46491667,31.08331667,Micropterus salmoides
+SAIAB,2014,Below the weir upstream the bridge on road to Piet Retief,Ngwampisi,Mfolozi,River,Mpumalanga,-26.67736667,30.70206667,Micropterus salmoides
+SAIAB,1998,Below Umzinto dam; Below Umzinto river dam,Mzinto,Mkomazi,Dam,KwaZulu-Natal,-30.30694444,30.58333333,Micropterus salmoides
+SAIAB,1990,Below weir; Site No 5,Yellowwoods,Keiskamma,River,Eastern Cape,-32.76555556,27.43,Micropterus punctulatus
+SAIAB,2000,Below Wrigglesware; Below Wrigglesware dam wall,Kubusi,Kei,Dam,Eastern Cape,-32.57777778,27.56444444,Micropterus dolomieu
+SAIAB,2002,Bethlehem Nature Resreve,Jordan,Orange,River,Free State,-28.23500061,28.31439972,Micropterus salmoides
+SAIAB,2003,Bivane River near SPA,Bivane,Mfolozi,River,KwaZulu-Natal,-27.52944444,30.86138889,Micropterus salmoides
+SAIAB,1983,Bongolo dam ,Komani,Kei,Dam,Eastern Cape,-31.86916667,26.92222222,Micropterus dolomieu
+SAIAB,1986,Bonnievale bridge; Bonnievale/Swellendam road,Breede,Breede,River,Western Cape,-34.00222222,20.20638889,Micropterus salmoides
+SAIAB,1983,Boskraal Farm,Koebee,Olifants W,River,Western Cape,-31.59277778,19.07583333,Micropterus dolomieu
+SAIAB,2001,Brakwater,Doring,Olifants W,River,Western Cape,-32.53610992,19.53583336,Micropterus dolomieu
+SAIAB,1992,Braunsweig bridge; Site 1,Buffalo,Keiskamma,River,Eastern Cape,-32.75916667,27.34027778,Micropterus punctulatus
+SAIAB,1983,Bridge at Alicedale,Bushmans,Bushmans,River,Eastern Cape,-33.3175,26.08194444,Micropterus salmoides
+SAIAB,1980,Bridge at Krom River Resort,Krom,Olifants W,River,Western Cape,-32.53333333,19.28333333,Micropterus salmoides
+SAIAB,1989,Bridge below Zaaihoek dam,Slang,Tugela,River,Eastern Cape,-27.45,30.24861111,Micropterus dolomieu
+SAIAB,2008,Bridge betw. Citrusdal and N7,Olifants,Olifants W,River,Western Cape,-32.59638889,19.00944444,Micropterus dolomieu
+SAIAB,1998,Bridge near Grootrivier farm,Leeu,Olifants W,River,Western Cape,-32.6455574,19.4058342,Micropterus punctulatus
+SAIAB,1998,Bridge near New Amalfi; Midgley road,Mzimvubu,Mzimvubu,River,Eastern Cape,-30.275,29.14722222,Micropterus dolomieu
+SAIAB,1986,Bridge on Dennegeur Farm road,Roodezandt,Berg,River,Western Cape,-33.25694444,19.10111111,Micropterus dolomieu
+SAIAB,1998,Bridge on tar road,Moeras,Gouritz,River,Western Cape,-33.86444473,22.04861069,Micropterus salmoides
+SAIAB,1986,Bridge on Tulbagh road,Waterval,Berg,River,Western Cape,-33.30888889,19.11166667,Micropterus dolomieu
+SAIAB,1986,Bridge; N1 bridge,Dwyka,Gouritz,River,Western Cape,-33.08388889,21.57888889,Micropterus salmoides
+SAIAB,1991,Brione 270,Inxu ,Mzimvubu,River,Eastern Cape,-31.14999961,28.33333397,Micropterus punctulatus
+SAIAB,1991,"Broughton; Broughton, Cramond",Mpolweni,Mkomazi,River,KwaZulu-Natal,-29.875,30.45972222,Micropterus salmoides
+SAIAB,1997,Buffels drift,Kammanassie,Gouritz,River,Western Cape,-33.7136116,22.78277779,Micropterus punctulatus
+SAIAB,1987,Cairngorm Farm,Bushmans,Bushmans,River,Eastern Cape,-33.37416667,26.03805556,Micropterus salmoides
+SAIAB,1996,Canema; Canema above falls,Mvoti,Mkomazi,River,KwaZulu-Natal,-29.15722222,30.69805556,Micropterus salmoides
+SAIAB,1990,Causeway 2,Kouga,Gamtoos,River,Eastern Cape,-33.76194444,23.86,Micropterus dolomieu
+SAIAB,1990,Causeway 2,Kouga,Gamtoos,River,Eastern Cape,-33.76194444,23.86,Micropterus salmoides
+SAIAB,2006,Causeway at Nagle dam,Mgeni,Mkomazi,River,KwaZulu-Natal,-29.59916667,30.62722222,Micropterus punctulatus
+SAIAB,1983,Causeway on Golden Grove Farm,Elands,Sundays,Pond,Eastern Cape,-33.04555556,25.09722222,Micropterus salmoides
+SAIAB,1983,Causeway on Moravia Farm,Berg,Berg,River,Western Cape,-32.91666667,18.65,Micropterus salmoides
+SAIAB,1983,Causeway on Willowvale Farm; Off Longkloof Road (Kareedouw),Krom,Krom,River,Eastern Cape,-33.96,24.37138889,Micropterus salmoides
+SAIAB,1983,Ceres road; Causeway - Ceres/Clanwilliam road,Leeu,Olifants W,River,Western Cape,-32.64638889,19.40805556,Micropterus salmoides
+SAIAB,1982,Ceres road; Ceres/Clanwilliam road,Matjies,Olifants W,River,Western Cape,-32.49916667,19.3325,Micropterus salmoides
+SAIAB,1987,Ceres road; Ceres/Clanwilliam road,Breekkrans,Olifants W,River,Western Cape,-32.565,19.36361111,Micropterus salmoides
+SAIAB,1995,Citrusdal,Jan Diessels,Olifants W,River,Western Cape,-32.13333333,18.53333333,Micropterus dolomieu
+SAIAB,1980,Citrusdal road; Road bridge on old Citrusdal/Clanwilliam road,Boontjies,Olifants W,River,Western Cape,-32.58305556,19.00638889,Micropterus salmoides
+SAIAB,1978,Clanwilliam,Jan Diessels,Olifants W,River,Western Cape,-32.2,18.93333333,Micropterus dolomieu
+SAIAB,1988,Clanwilliam road; Causeway Clanwilliam/Ceres road,Groot,Olifants W,River,Western Cape,-32.565,19.36361111,Micropterus salmoides
+SAIAB,1987,Clanwilliam road; Clanwilliam/Ceres road,Groot,Olifants W,River,Western Cape,-32.64638889,19.40805556,Micropterus dolomieu
+SAIAB,1989,Corriespruit,Nyambati,Tugela,River,KwaZulu-Natal,-29.14583333,30.38194444,Micropterus salmoides
+SAIAB,1988,Creighton; Farm dan on Underbush,Mzimkulu,Mzimvubu,Pond,KwaZulu-Natal,-29.97027778,29.8125,Micropterus salmoides
+SAIAB,2012,D12/ D22/ D23 (Uitulugspruit),Sterkstroom,Limpopo,River,North West,-25.6668,26.53992,Micropterus salmoides
+SAIAB,2005,Dam (site 5),,Keiskamma,Pond,Eastern Cape,-32.67055556,27.29027778,Micropterus salmoides
+SAIAB,1989,Dongwe,Buffalo,Keiskamma,River,Eastern Cape,-32.94333267,27.57083321,Micropterus punctulatus
+SAIAB,2008,Donkerhoek crossing,Bushmans,Bushmans,River,Eastern Cape,-33.51736111,26.15883333,Micropterus salmoides
+SAIAB,1986,"Draaivleidam, Moordkuil Farm; Villiersdorp/Worcester road",Hoeks,Gouritz,Dam,Western Cape,-33.7875,19.47222222,Micropterus salmoides
+SAIAB,2013,Driel stream; Bergville,Tugela,Tugela,River,KwaZulu-Natal,-28.74027778,29.29027778,Micropterus salmoides
+SAIAB,1986,Dysseldorp; Causeway - Dysseldorp/George road,Kammanassie,Gouritz,Pond,Western Cape,-33.63777778,22.39361111,Micropterus salmoides
+SAIAB,1972,East London,Rawantsa,Keiskamma,Pond,Eastern Cape,-32.87833333,27.64888889,Micropterus salmoides
+SAIAB,1977,Elands River,Elands,Swartkops,Pond,Eastern Cape,-33.76666667,25.35,Micropterus salmoides
+SAIAB,2003,"Elizabeth farm, Melmoth Area",Mfule,Mfolozi,River,KwaZulu-Natal,-28.51583333,31.43611111,Micropterus salmoides
+SAIAB,1998,Esperanza bridge; Near Umzinto,Mzinto,Mkomazi,River,KwaZulu-Natal,-30.34111111,30.64722222,Micropterus salmoides
+SAIAB,1987,Farm Blinkwater; Near York,Sterkspruit,Mkomazi,Pond,KwaZulu-Natal,-29.25972222,30.48194444,Micropterus salmoides
+SAIAB,1988,Farm dam Ashton; Harden Heights,Ikhamanzi,Mkomazi,Pond,KwaZulu-Natal,-29.26111111,30.59305556,Micropterus salmoides
+SAIAB,1996,Farm dam on Reserve; Kinira/Mabele,Jordan,Mzimvubu,Pond,KwaZulu-Natal,-30.33027778,28.3525,Micropterus salmoides
+SAIAB,1988,Farm Olivefontein,Loza,Tugela,River,KwaZulu-Natal,-28.975,30.57972222,Micropterus salmoides
+SAIAB,1978,Farm road - Waterval,Berg,Berg,Lake,Western Cape,-33.38333333,19.03333333,Micropterus dolomieu
+SAIAB,1987,Farm road bridge,Boontjies,Olifants W,River,Western Cape,-32.57555556,19.02527778,Micropterus salmoides
+SAIAB,1979,Farm road bridge on Plattekloof Farm,Berg,Berg,River,Western Cape,-32.91888889,18.66638889,Micropterus dolomieu
+SAIAB,1987,Farm Roundabout,Umhlanga,Mzimvubu,River,KwaZulu-Natal,-30.78055556,30.23333333,Micropterus salmoides
+SAIAB,1987,Farm Teewater; Cockscomb Nature Reserve,Groot,Gamtoos,River,Eastern Cape,-33.65777778,24.66666667,Micropterus dolomieu
+SAIAB,1989,Farm Upper Mvoti,Mvoti,Mkomazi,River,KwaZulu-Natal,-29.20194444,30.43694444,Micropterus punctulatus
+SAIAB,1989,Farm Wanstead; On Matatiele/Swartberg road,Mzimvubu,Mzimvubu,River,Eastern Cape,-30.24555556,29.12638889,Micropterus salmoides
+SAIAB,1987,Farm Zitlerthal; Road bridge,Vungu,Mzimvubu,River,KwaZulu-Natal,-30.79861111,30.21527778,Micropterus salmoides
+SAIAB,1983,Glencoe farm; Causeway on Willowmore/Patensie road,Groot,Gamtoos,River,Eastern Cape,-33.69583333,24.61222222,Micropterus salmoides
+SAIAB,2001,Glenmore Beach,Tongazi,Mzimvubu,Pond,KwaZulu-Natal,-31.00777778,30.24722222,Micropterus salmoides
+SAIAB,1991,Gluckstad; D219bridge,Hlonyane,Mfolozi,River,KwaZulu-Natal,-27.99444444,31.09027778,Micropterus punctulatus
+SAIAB,1986,Goedemoed Farm; Uitnood Divisional road,Breede,Breede,River,Western Cape,-33.84777778,19.95277778,Micropterus dolomieu
+SAIAB,2009,"Gowie Dam, below Wincanton, Grahamstown",,Bushmans,Pond,Eastern Cape,-33.29426389,26.51563889,Micropterus salmoides
+SAIAB,1985,Grahamstown road; Grahamstown/Port Alfred road,Bloukrans,Bushmans,River,Eastern Cape,-33.36666667,26.7,Micropterus salmoides
+SAIAB,1989,Grahamstown; Albany Sports Club,Gowie,Bushmans,Pond,Eastern Cape,-33.29444444,26.52361111,Micropterus salmoides
+SAIAB,1991,Grantleighspruit; Freeway bridge,Mooi,Tugela,River,KwaZulu-Natal,-29.20694444,30.00194444,Micropterus salmoides
+SAIAB,1986,Greyton road; Bridge Riviersonderend/Greyton road,Riviersonderend,Breede,River,Western Cape,-34.11222222,19.74638889,Micropterus salmoides
+SAIAB,1988,Greytown; Under railway Farm Hartebeestvlakte,Heinespruit,Mkomazi,Pond,KwaZulu-Natal,-29.11944444,30.6,Micropterus salmoides
+SAIAB,1997,Groendal,Blindekloof,Swartkops,River,Eastern Cape,-33.70529937,25.29669952,Micropterus punctulatus
+SAIAB,1997,Groendal approx. 1km down,Blindekloof,Swartkops,River,Eastern Cape,-33.70529937,25.29669952,Micropterus dolomieu
+SAIAB,1984,Hankey area; Hankey/Humansdorp road bridge,Gamtoos,Gamtoos,River,Eastern Cape,-33.84416667,24.8675,Micropterus dolomieu
+SAIAB,1991,Hattingspruit; Tom Worthington dam,Tugela,Tugela,Dam,KwaZulu-Natal,-28.07777778,30.13472222,Micropterus salmoides
+SAIAB,2007,Headwaters on Bekazela,Mgeni,Mkomazi,River,KwaZulu-Natal,-29.27527778,30.37694444,Micropterus salmoides
+SAIAB,1986,Helpmekaar Farm,Berg,Berg,River,Western Cape,-33.62944444,18.97694444,Micropterus dolomieu
+SAIAB,1996,Hermansburg; Klipnek,Hlimbitwa,Mkomazi,Pond,KwaZulu-Natal,-28.96166667,30.75666667,Micropterus salmoides
+SAIAB,1983,High up in Koebee River,Koebee,Olifants W,River,Western Cape,-31.56111111,19.08333333,Micropterus dolomieu
+SAIAB,1998,Howick; Woodhouse Falls,Karkloof,Mkomazi,River,KwaZulu-Natal,-29.39583333,30.28055556,Micropterus salmoides
+SAIAB,1960,Howiesonspoort,Kariega,Bushmans,Dam,Eastern Cape,-33.36666667,26.48333333,Micropterus salmoides
+SAIAB,2003,Inxu river in mbidlana area,Inxu ,Mzimvubu,River,Eastern Cape,-31.19916667,28.43333333,Micropterus punctulatus
+SAIAB,1990,Ixopo; On Myhill,Mzinhlanga,Mkomazi,River,KwaZulu-Natal,-30.08611111,30.14027778,Micropterus salmoides
+SAIAB,2007,Jagersrust,Mnjaneni,Tugela,Dam,KwaZulu-Natal,-28.58071,29.0856,Micropterus salmoides
+SAIAB,2007,Jagersrust 2,Mnjaneni,Tugela,Pond,KwaZulu-Natal,-28.57969,29.08622,Micropterus salmoides
+SAIAB,2007,Jagersrust 3,Tugela,Tugela,Pond,KwaZulu-Natal,-28.58152,29.08284,Micropterus salmoides
+SAIAB,1994,Joubertskraal Tributary; Road crossing on way to Rachels River,Joubertskraal,Gamtoos,River,Eastern Cape,-33.81888889,24.25194444,Micropterus punctulatus
+SAIAB,2005,Kambi Forest,Umtata,Mzimvubu,River,Eastern Cape,-31.47138977,28.61499977,Micropterus dolomieu
+SAIAB,1983,Kareedouw road; Bridge N2/Kareedouw road,Diep,Gouritz,River,Eastern Cape,-34.02361111,24.59138889,Micropterus salmoides
+SAIAB,1992,Karkloof; Stream on Triandra,Mgeni,Mkomazi,Pond,KwaZulu-Natal,-29.34583333,30.22694444,Micropterus salmoides
+SAIAB,1981,King Williamstown,Buffalo,Keiskamma,River,Eastern Cape,-32.75,27.36666667,Micropterus punctulatus
+SAIAB,1960,Kirkwood,Wit,Sundays,Dam,Western Cape,-33.36666667,25.66666667,Micropterus salmoides
+SAIAB,1987,Kokstad; At Slippery Drift bridge,Mzintlava,Mzimvubu,River,Eastern Cape,-30.56,29.41388889,Micropterus salmoides
+SAIAB,1988,"Kokstad; Boy Scout dam, Mount Currie Nature Reserve",Mzintlava,Mzimvubu,Pond,KwaZulu-Natal,-30.49444444,29.42361111,Micropterus salmoides
+SAIAB,1986,Koopmansrivier; Koopmansrivier Farm,Berg,Berg,River,Western Cape,-33.395,18.9925,Micropterus dolomieu
+SAIAB,1986,Koopmansrivier; Koopmansrivier Farm,Berg,Berg,River,Western Cape,-33.395,18.9925,Micropterus salmoides
+SAIAB,1987,Kosi Bay; Nteza Pan (Bass pan),,Mfolozi,Pan,KwaZulu-Natal,-26.95194444,32.80194444,Micropterus salmoides
+SAIAB,2012,Kouga headwaters,,Gamtoos,River,Western Cape,-33.71633333,23.41122222,Micropterus dolomieu
+SAIAB,1998,Krom River Farm Danis,Krom,Olifants W,Pond,Western Cape,-32.54305648,19.27805519,Micropterus salmoides
+SAIAB,1992,Kwa Mafunze Drift,Umsinduzi,Mkomazi,River,KwaZulu-Natal,-29.725,30.13194444,Micropterus salmoides
+SAIAB,1981,Laing Dam,Buffalo,Keiskamma,Dam,Eastern Cape,-32.96666717,27.48333359,Micropterus dolomieu
+SAIAB,1986,Leeurivier Farm,Leeu,Olifants W,Pond,Western Cape,-34.08111111,20.32138889,Micropterus salmoides
+SAIAB,2006,"Lello road, Kloof, Durban",Mhlathuzana,Mkomazi,River,KwaZulu-Natal,-29.76111111,30.73972222,Micropterus dolomieu
+SAIAB,1988,"Loch Curragh, Pool between dam wall and new Kokstad bridge; Below Gilsons dam",Ndawana,Mzimvubu,Dam,KwaZulu-Natal,-29.94166667,29.35,Micropterus salmoides
+SAIAB,1983,Loerie dam; Causeway at top of Loerie dam,Geelhout,Swartkops,River,Eastern Cape,-33.85,25.04027778,Micropterus salmoides
+SAIAB,2000,Macclesfield; D209 bridge,Horn,Tugela,River,KwaZulu-Natal,-27.88527778,29.90916667,Micropterus punctulatus
+SAIAB,1997,Maelula,Mutshedzi ,Limpopo,River,Limpopo,-22.98999977,30.12444496,Micropterus punctulatus
+SAIAB,2006,Magalies River at road bridge in town,Magalies,Limpopo,River,Gauteng,-25.99583333,27.55055556,Micropterus punctulatus
+SAIAB,1994,Margate; Mbumbazi Nature Reserve,Vungu,Mzimvubu,River,KwaZulu-Natal,-30.81805556,30.27277778,Micropterus salmoides
+SAIAB,1992,Margate; Roselands,Bilanhlolo,Mkomazi,River,KwaZulu-Natal,-30.86472222,30.3375,Micropterus salmoides
+SAIAB,1978,Martindale causeway,Bloukrans,Great Fish,River,Eastern Cape,-33.36666488,26.83333397,Micropterus punctulatus
+SAIAB,1987,Matatiele Mountain Lake,Mvenyane,Mzimvubu,Lake,KwaZulu-Natal,-30.40138889,28.81527778,Micropterus salmoides
+SAIAB,2006,Mdloti River System,Mdloti,Mkomazi,River,KwaZulu-Natal,-29.64694444,31.09166667,Micropterus punctulatus
+SAIAB,2006,"Mdloti River System, Canelands, Durban",Mdloti,Mkomazi,River,KwaZulu-Natal,-29.62222222,31.04444444,Micropterus punctulatus
+SAIAB,2006,"Mdloti River System, Durban",Mdloti,Mkomazi,River,KwaZulu-Natal,-29.60222222,31.00861111,Micropterus punctulatus
+SAIAB,1996,"Melmoth; Gologodo stream, Barneveld",Mhlatuze,Mfolozi,River,KwaZulu-Natal,-28.56527778,31.44722222,Micropterus salmoides
+SAIAB,1991,Merite River Site 3 A Durr,Marite,Komati,River,Mpumalanga,-24.83333396,31.08333397,Micropterus punctulatus
+SAIAB,1983,Meyers Kraal Farm; Causeway above dam,New Years,Bushmans,River,Eastern Cape,-33.28,26.15194444,Micropterus salmoides
+SAIAB,1991,Mhlanga,Ohlanga,Mkomazi,River,KwaZulu-Natal,-29.70000076,31.10000038,Micropterus punctulatus
+SAIAB,2002,Middle of Tradouws pass in Gorge,Tradou,Breede,River,Western Cape,-33.96833333,20.70194444,Micropterus salmoides
+SAIAB,1993,Molopo Oog below weir,Molopo,Orange,Pond,North West,-25.81666755,26.04999924,Micropterus salmoides
+SAIAB,2006,Mooi river,Mooi,Tugela,River,KwaZulu-Natal,-29.20777778,30.01916667,Micropterus dolomieu
+SAIAB,2006,Mooi river,Mooi,Tugela,River,KwaZulu-Natal,-29.20777778,30.01916667,Micropterus punctulatus
+SAIAB,1991,Mooi River Falls; D 174 bridge,Mooi,Tugela,River,KwaZulu-Natal,-29.07138889,30.24666667,Micropterus salmoides
+SAIAB,1990,Morven,Wildebeest,Orange,River,Eastern Cape,-31.21389961,27.08060074,Micropterus punctulatus
+SAIAB,1991,Mount Challenger 255,Wildebeest,Mzimvubu,River,Eastern Cape,-31.17083358,28.12000084,Micropterus punctulatus
+SAIAB,1996,Mtulwa confluence,Mvoti,Mkomazi,River,KwaZulu-Natal,-29.23333333,30.78472222,Micropterus salmoides
+SAIAB,1996,Mvoti confluence,Nsuze,Mkomazi,River,KwaZulu-Natal,-29.29027778,31.02972222,Micropterus salmoides
+SAIAB,2003,Mzimkulwana River,Mzimkhulwana,Mzimvubu,River,KwaZulu-Natal,-30.71166667,30.07555556,Micropterus salmoides
+SAIAB,2003,Nahoon Dam,Nahoon ,Keiskamma,Dam,Eastern Cape,-32.90000152,27.81666756,Micropterus salmoides
+SAIAB,2003,Nahoon River upstream of Nahoon Dam,Nahoon ,Keiskamma,River,Eastern Cape,-32.86722183,27.76527786,Micropterus punctulatus
+SAIAB,1996,Near Ahrens; Bridgeford,Mvozana,Mkomazi,Pond,KwaZulu-Natal,-29.10694444,30.68694444,Micropterus salmoides
+SAIAB,1994,Near Camperdown; Little Diamond Talla Valley,Mlazi,Mkomazi,River,KwaZulu-Natal,-29.80972222,30.5,Micropterus salmoides
+SAIAB,1991,Near Coronation; D230 bridge near Coronation,Mkuze,Mfolozi,River,KwaZulu-Natal,-27.69027778,31.2125,Micropterus salmoides
+SAIAB,1991,Near Coronation; D230 bridge near Coronation,Nkongolwana,Mfolozi,River,KwaZulu-Natal,-27.66944444,31.19027778,Micropterus salmoides
+SAIAB,1996,Near Hermannsburg; Boscombe,Hlimbitwa,Mkomazi,River,KwaZulu-Natal,-29.04472222,30.81805556,Micropterus salmoides
+SAIAB,1989,Near New Hanover; On Farm Lyndale,Mpolweni,Mkomazi,River,KwaZulu-Natal,-29.38972222,30.48611111,Micropterus salmoides
+SAIAB,1996,Near Ramsgate; Woodlands bridge,Mvutshini,Mzimvubu,Pond,KwaZulu-Natal,-30.88527778,30.33055556,Micropterus salmoides
+SAIAB,1987,New Years Dam; Alicedale,New Years,Bushmans,Dam,Eastern Cape,-33.3,26.11444444,Micropterus salmoides
+SAIAB,1991,Newcastle; Below Amcor dam,Ncandu,Tugela,River,KwaZulu-Natal,-27.73666667,29.98694444,Micropterus salmoides
+SAIAB,1988,Next to Caves road,Grobbelaars,Gouritz,River,Western Cape,-33.465,22.25472222,Micropterus dolomieu
+SAIAB,1983,Next to river on Milbank Farm,Kat ,Great Fish,River,Eastern Cape,-32.74416667,26.58861111,Micropterus salmoides
+SAIAB,2007,Nyezane River at old N2,Nyezane,Mfolozi,River,KwaZulu-Natal,-28.97694444,31.63638889,Micropterus salmoides
+SAIAB,2001,Olifants River,Olifants,Olifants N,River,Mpumalanga,-26.21719932,29.45829964,Micropterus dolomieu
+SAIAB,1989,On Dartmoor farm; Anon headwater tributary of Inyamvubu,Inyamvubu,Tugela,River,KwaZulu-Natal,-29.26944444,30.25555556,Micropterus salmoides
+SAIAB,1986,On farm road to Mooiplaas Farm,Sandspruit,Breede,River,Western Cape,-33.48305556,19.16777778,Micropterus dolomieu
+SAIAB,1991,On Harlestone; Near Joubertvlei,Mooi,Tugela,River,KwaZulu-Natal,-29.11944444,30.12916667,Micropterus dolomieu
+SAIAB,1991,On Harlestone; Near Joubertvlei,Mooi,Tugela,River,KwaZulu-Natal,-29.11944444,30.12916667,Micropterus salmoides
+SAIAB,1996,On way to Bazana,Mzamba,Mzimvubu,River,Eastern Cape,-30.91666667,29.81666667,Micropterus dolomieu
+SAIAB,1990,Opkoms; Several 100 meters upstream of new flow weir,Gamtoos,Gamtoos,River,Eastern Cape,-33.76944444,24.02027778,Micropterus salmoides
+SAIAB,1978,Oudtshoorn ,Olifants,Gouritz,River,Western Cape,-33.58166667,22.35916667,Micropterus salmoides
+SAIAB,1986,Oudtshoorn road; Bridge Oudtshoorn/Uniondale road,Doring,Olifants W,River,Western Cape,-33.83472222,22.44555556,Micropterus salmoides
+SAIAB,1997,Paardefontein; Near Harden Heights,Ikhamanzi,Mkomazi,River,KwaZulu-Natal,-29.27694444,30.66944444,Micropterus salmoides
+SAIAB,2000,Past citrus farm near main road to Citrusdal,Olifants,Olifants W,River,Western Cape,-32.44689941,18.96080017,Micropterus dolomieu
+SAIAB,1998,Past citrus farm near road to Olifants R,Olifants,Olifants W,River,Western Cape,-32.44694519,18.9608326,Micropterus punctulatus
+SAIAB,1987,Patensie road; Causeway Patensie/Willowmore road,Baviaanskloof,Gamtoos,River,Eastern Cape,-33.655,24.36777778,Micropterus dolomieu
+SAIAB,1991,Pietermaritzburg; Gezubuso bridge,Mgeni,Mkomazi,River,KwaZulu-Natal,-29.66527778,30.22277778,Micropterus salmoides
+SAIAB,1991,Pietermaritzburg; Shortts Retreat bridge,Mkhondeni,Mkomazi,River,KwaZulu-Natal,-29.65833333,30.44166667,Micropterus salmoides
+SAIAB,1972,Port Elizabeth,Baakens,Swartkops,River,Eastern Cape,-33.96666717,25.60000038,Micropterus salmoides
+SAIAB,1986,Porterville road; Bridge Porterville/Gouda road,Klein Berg,Berg,River,Western Cape,-33.22388889,18.98166667,Micropterus dolomieu
+SAIAB,1986,Porterville road; Bridge Porterville/Gouda tar road,Vier-en-Twintig,Berg,River,Western Cape,-33.15361111,18.97333333,Micropterus dolomieu
+SAIAB,1978,Potjies; Near Uniondale,Kammanassie,Gouritz,River,Western Cape,-33.70833333,23.05083333,Micropterus salmoides
+SAIAB,1994,Rachels Tributary; Joubertskraal downstream of Site 3,Rachels,Gamtoos,River,Eastern Cape,-33.81666667,24.24611111,Micropterus punctulatus
+SAIAB,1986,Redlinghuis; Road bridge outside Redlinghuis,Verlorenvlei,Berg,River,Western Cape,-32.47166667,18.54166667,Micropterus dolomieu
+SAIAB,2000,Riverholme; Near staff houses,Mooi,Tugela,Dam,KwaZulu-Natal,-29.33527778,29.92777778,Micropterus dolomieu
+SAIAB,1986,Riversdale bridge; Bridge Riversdale/Herbertsdale road,Vet,Breede,River,Western Cape,-34.09055556,21.26583333,Micropterus salmoides
+SAIAB,1986,Riversdale road; Riversdale/Windhoek road forestry,Koppies,Breede,River,Western Cape,-33.99611111,21.1475,Micropterus salmoides
+SAIAB,1994,Riverside,Kouga,Gamtoos,River,Eastern Cape,-33.80194444,24.31555556,Micropterus punctulatus
+SAIAB,2012,"Riverstill, (Isotopes)",Groot Marico,Limpopo,River,North West,-25.64177,26.4316,Micropterus salmoides
+SAIAB,1998,Road Bridge,Oudste,Olifants W,River,Western Cape,-32.86830139,19.08169937,Micropterus dolomieu
+SAIAB,1981,Road bridge just outside Stutterheim,Kubusi,Kei,River,Eastern Cape,-32.58611111,27.42361111,Micropterus salmoides
+SAIAB,1985,Road bridge near Farm Batchelors Rest; Kei Mouth/Mooiplaas road,Quko,Keiskamma,River,Eastern Cape,-32.68333333,28.15,Micropterus salmoides
+SAIAB,1982,Road bridge on N2,Kafferkuils,Breede,River,Western Cape,-34.13277778,21.27472222,Micropterus dolomieu
+SAIAB,1985,Road bridge; Road bridge to Kei mouth,Cwili,Kei,River,Eastern Cape,-32.66666667,28.35,Micropterus salmoides
+SAIAB,1996,Road crossing,Mtentu,Mzimvubu,River,Eastern Cape,-31.13111111,29.75611111,Micropterus salmoides
+SAIAB,2002,Rondehoek track crossing at Warmhoek,Jan Diessels,Olifants W,River,Western Cape,-32.29750061,19.06833267,Micropterus dolomieu
+SAIAB,2001,"Roodepoort spruit; D170 bridge, old lands",Tugela,Tugela,River,KwaZulu-Natal,-29.11194444,29.87777778,Micropterus salmoides
+SAIAB,2006,Rosetta,Mooi,Tugela,River,KwaZulu-Natal,-29.30194444,29.97166667,Micropterus dolomieu
+SAIAB,1995,Rosetta; Rosetta Farm,Mooi,Tugela,Dam,KwaZulu-Natal,-29.32083333,29.96527778,Micropterus salmoides
+SAIAB,1988,Sanddrift Farm,Kammanassie,Gouritz,River,Western Cape,-33.71722222,22.69777778,Micropterus salmoides
+SAIAB,2012,Schilkerivier upper (pools),Schilkerivier,Gamtoos,River,Eastern Cape,-33.72530556,23.89569444,Micropterus punctulatus
+SAIAB,1982,"Settlers Dam, shallow water",Kariega,Keiskamma,Dam,Eastern Cape,-33.40000152,26.5,Micropterus salmoides
+SAIAB,1988,Sevenoaks,Ikhamanzi,Mkomazi,River,KwaZulu-Natal,-29.24305556,30.255,Micropterus salmoides
+SAIAB,2000,Shiyalongubo Dam,Shiyalongubo,Komati,Dam,Mpumalanga,-25.75,31.28333282,Micropterus dolomieu
+SAIAB,1990,Site 6,Yellowwoods,Keiskamma,River,Eastern Cape,-32.83416667,27.43055556,Micropterus punctulatus
+SAIAB,2009,"Small Side Pool, Downstream of 2nd Tributary",Witels,Breede,River,Western Cape,-33.42583333,19.30163889,Micropterus dolomieu
+SAIAB,1987,Smedmore Farm dam,,Mzimvubu,Pond,KwaZulu-Natal,-30.95416667,30.15972222,Micropterus salmoides
+SAIAB,2003,Soetendalsvlei,Nuwejaars,Berg,River,Western Cape,-34.73888778,19.99444389,Micropterus punctulatus
+SAIAB,1983,Somerset East,Little Fish ,Great Fish,Pond,Eastern Cape,-33.08333206,25.83333397,Micropterus punctulatus
+SAIAB,2014,"Spitzkop Farm, Klanskloof tributary",Klanskloof,Mkomazi,River,KwaZulu-Natal,-29.3285,30.23308333,Micropterus salmoides
+SAIAB,1981,Sportvale Farm; Between Hunts and Kaffir Drifts,Groot vis,Great Fish,River,Eastern Cape,-33.33333333,26.96666667,Micropterus salmoides
+SAIAB,1985,Stanford Area; Off Hermanus/Gansbaai road,Klein,Gamtoos,River,Western Cape,-34.43083333,19.46,Micropterus dolomieu
+SAIAB,2001,Storms River Mouth rest camp,Storms,Krom,River,Eastern Cape,-34.02109909,23.89690018,Micropterus salmoides
+SAIAB,2010,Swartkops River mouth,Swartkops,Swartkops,River,Eastern Cape,-33.86666488,25.63333321,Micropterus salmoides
+SAIAB,1983,Swellendam road; Bridge on Swellendam/Montagu road,Boesmans,Breede,River,Western Cape,-33.93333333,20.21666667,Micropterus dolomieu
+SAIAB,1997,Thorny Hill bridge; Thorny Hill road bridge,Mpushini,Mkomazi,River,KwaZulu-Natal,-29.70694444,30.40694444,Micropterus salmoides
+SAIAB,2013,Transkei border; Farm Tiger Valley,Mzintlava,Mzimvubu,River,Eastern Cape,-30.62916667,29.38611111,Micropterus salmoides
+SAIAB,2007,Tributary of Yellowwoods; East London,Yellowwoods,Bushmans,River,Eastern Cape,-32.84055556,27.48416667,Micropterus salmoides
+SAIAB,2003,"Umnga river, lower reaches",Umnga ,Mzimvubu,River,Eastern Cape,-31.27138889,28.76888889,Micropterus punctulatus
+SAIAB,2003,"uMngeni River, Umgeni River System",Mgeni,Mkomazi,River,KwaZulu-Natal,-29.52166667,30.09333333,Micropterus dolomieu
+SAIAB,1985,Umvoti Vlei Nature Reserve,,Mkomazi,River,KwaZulu-Natal,-29.17083333,30.54166667,Micropterus punctulatus
+SAIAB,1978,"Umzinto River, Vernon Crookes Nature Reserve",Umzinto,Mkomazi,Pond,KwaZulu-Natal,-30.26388889,30.59305556,Micropterus salmoides
+SAIAB,1988,Umzinto; Vernon Crookes Nature Reserve,,Mkomazi,Pond,KwaZulu-Natal,-30.26666667,30.60888889,Micropterus salmoides
+SAIAB,1987,Underberg; Farm The Bank,Mzimkulu,Mzimvubu,River,KwaZulu-Natal,-29.775,29.47222222,Micropterus salmoides
+SAIAB,1986,Uniondale road; Bridge Oudtshoorn/Uniondale road,Diep,Gouritz,River,Western Cape,-33.76277778,22.83611111,Micropterus salmoides
+SAIAB,2006,"Upstream of confluence with Mzinyati river, Durban Metro",Mgeni,Mkomazi,River,KwaZulu-Natal,-29.71888889,30.89277778,Micropterus punctulatus
+SAIAB,2006,"Upstream of Shongweni dam, Durban Metro",Sterkspruit,Mkomazi,Dam,KwaZulu-Natal,-29.85166667,30.71555556,Micropterus punctulatus
+SAIAB,1986,Vinkrivier Farm; In orchard,Berg,Berg,River,Western Cape,-33.40722222,18.64833333,Micropterus dolomieu
+SAIAB,1998,"Vogelfontein, over bridge at first stile",Breekkrans,Olifants W,River,Western Cape,-32.56499862,19.3619442,Micropterus punctulatus
+SAIAB,1994,Vondo Dam,Mutshindudi ,Limpopo,Dam,Limpopo,-22.93638801,30.33611107,Micropterus dolomieu
+SAIAB,1990,Wagendrift Dam,Tugela,Tugela,Dam,KwaZulu-Natal,-29.05135,29.834187,Micropterus dolomieu
+SAIAB,1997,Weenen Nature Reserve,Bushmans,Tugela,River,KwaZulu-Natal,-28.88972222,30.01527778,Micropterus punctulatus
+SAIAB,1986,Weir R2M10 above Laing Dam,Buffalo,Keiskamma,Dam,Eastern Cape,-32.94329833,27.4666996,Micropterus punctulatus
+SAIAB,1997,Welgerus Drift,Gamka,Gouritz,River,Western Cape,-33.63859939,21.70999908,Micropterus salmoides
+SAIAB,2009,Western Cape,Grashoek,Berg,River,Western Cape,-34.58263889,19.96861111,Micropterus punctulatus
+SAIAB,1997,Wilderness National Park,Duiwe ,Krom,River,Western Cape,-33.97969818,22.6522007,Micropterus dolomieu
+SAIAB,1978,Wincanton Estates,Elands,Swartkops,River,Western Cape,-33.8,25.31666667,Micropterus salmoides
+Social media,2014,African blessings,,Olifants N,Pond,Gauteng,-25.74777,28.727372,Micropterus salmoides
+Social media,2012,Albasini Dam,Luvuvhu,Limpopo,Dam,Limpopo,-23.101898,30.098763,Micropterus salmoides
+Social media,2013,Applethwaite,Palmiet ,Breede,River,Western Cape,-34.19725,18.985319,Micropterus salmoides
+Social media,2011,Arabie Dam,Olifants,Olifants N,Dam,Limpopo,-24.820627,29.443617,Micropterus salmoides
+Social media,2013,Arieskraal Dam,Palmiet ,Breede,Dam,Western Cape,-34.242595,18.977393,Micropterus salmoides
+Social media,2012,Arum Lily,,Breede,Pond,Western Cape,-33.42015,19.241674,Micropterus dolomieu
+Social media,2010,Bass lake,,Vaal,Pond,Gauteng,-26.508599,28.065906,Micropterus salmoides
+Social media,2013,Bell Park Dam,Mtoti,Tugela,Dam,KwaZulu-Natal,-28.959008,29.433703,Micropterus salmoides
+Social media,2011,Berg River Dam,Berg,Berg,Dam,Western Cape,-33.91847,19.059305,Micropterus dolomieu
+Social media,2010,BlaauWestern Capean Dam,,Vaal,Pond,Gauteng,-26.124136,28.270226,Micropterus salmoides
+Social media,2012,Bloemhof Dam,Vaal,Vaal,Dam,Free State,-27.696904,25.687065,Micropterus salmoides
+Social media,2016,Boobejaan Kloof Bass & Quad Lodge,,Vaal,Pond,North West,-26.689773,26.450156,Micropterus salmoides
+Social media,2012,Boskop Dam,Olifants,Olifants N,Dam,North West,-26.555557,27.118807,Micropterus salmoides
+Social media,2012,Bottom Dam,,Berg,Pond,Western Cape,-34.432983,19.481214,Micropterus dolomieu
+Social media,2013,Bottom Dam,,Berg,Pond,Western Cape,-34.432983,19.481214,Micropterus salmoides
+Social media,2009,Brakkeduine Dam,Klipdrift,Krom,Dam,Eastern Cape,-34.127597,24.565001,Micropterus salmoides
+Social media,2008,Brandvlei Dam,Lower Brandvlei ,Breede,Dam,Western Cape,-33.713488,19.429321,Micropterus dolomieu
+Social media,2009,Bronkhorstspruit Dam ,Bronkhostpruit,Vaal,Dam,Gauteng,-25.893415,28.720086,Micropterus salmoides
+Social media,2009,Buffelsjag Dam,Buffeljags,Breede,Dam,Western Cape,-34.009447,20.540614,Micropterus salmoides
+Social media,2011,Buffelspoort Dam,Sterkstroom,Limpopo,Dam,North West,-25.791352,27.489123,Micropterus salmoides
+Social media,2012,Bulshoek Dam,Olifants,Olifants W,Dam,Western Cape,-32.018483,18.800397,Micropterus dolomieu
+Social media,2012,Bulshoek Dam,Olifants,Olifants W,Dam,Western Cape,-32.018483,18.800397,Micropterus salmoides
+Social media,2012,Cellar Dam,,Berg,Pond,Western Cape,-34.367333,19.254688,Micropterus salmoides
+Social media,2011,Chris Dam,,Berg,Pond,Western Cape,-34.440035,19.47699,Micropterus salmoides
+Social media,2011,Clanwilliam,Olifants,Olifants W,Dam,Western Cape,-32.222241,18.906956,Micropterus punctulatus
+Social media,2016,Clanwilliam Dam,Olifants,Olifants W,Dam,Western Cape,-32.222241,18.906956,Micropterus salmoides
+Social media,2012,Cottage Dam,,Berg,Pond,Western Cape,-34.430359,19.478052,Micropterus salmoides
+Social media,2011,Craigie Burn Dam,Mnyamvubu,Mkomazi,Dam,KwaZulu-Natal,-29.167864,30.286474,Micropterus dolomieu
+Social media,2012,Craigie Burn Dam,Mnyamvubu,Tugela,Dam,KwaZulu-Natal,-29.167864,30.286474,Micropterus salmoides
+Social media,2013,Crocodile farm,,Berg,Pond,Western Cape,-33.817886,18.946341,Micropterus salmoides
+Social media,2012,Da Gama Dam,White Waters,Komati,Dam,Mpumalanga,-25.143828,31.017709,Micropterus salmoides
+Social media,2012,De Bos(Onrus rivier),Onrus ,Berg,Dam,Western Cape,-34.364419,19.246083,Micropterus salmoides
+Social media,2012,Disaneng Dam,Molopo,Limpopo,Dam,North West,-25.829213,25.319967,Micropterus salmoides
+Social media,2012,Donaldson Dam,,Vaal,Pond,Gauteng,-26.272175,27.691973,Micropterus salmoides
+Social media,2013,Doordekraal,,Berg,Pond,Western Cape,-33.865293,18.629851,Micropterus salmoides
+Social media,2010,Doorndraai Dam,Sterk,Limpopo,Dam,Limpopo,-24.298527,28.756928,Micropterus salmoides
+Social media,2016,Dowerglen Dam,,Limpopo,Pond,Gauteng,-26.144241,28.133345,Micropterus salmoides
+Social media,2008,Driekoppies Dam,Lomati,Komati,Dam,Mpumalanga,-25.737127,31.518402,Micropterus salmoides
+Social media,2013,Durbanville,,Berg,Pond,Western Cape,-33.808678,18.661029,Micropterus salmoides
+Social media,2012,Eastern Capehno Park,,Berg,Pond,Western Cape,-33.96533,18.832516,Micropterus salmoides
+Social media,2010,Ebenezer Dam,Groot Letaba,Olifants N,Dam,Limpopo,-23.938958,29.978685,Micropterus dolomieu
+Social media,2011,Ebenezer Dam,Groot Letaba,Olifants N,Dam,Limpopo,-23.938958,29.978685,Micropterus salmoides
+Social media,2012,Edenvale Quarry,,Vaal,Pond,Western Cape,-26.158568,28.171617,Micropterus salmoides
+Social media,2011,Eikenhof,,Berg,Pond,Western Cape,-34.121398,19.02935,Micropterus salmoides
+Social media,2009,Emmarentia Dam,Braamfontein Spruit,Vaal,Dam,Gauteng,-26.151971,28.005073,Micropterus salmoides
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-33.946956,20.142016,Micropterus dolomieu
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-33.946956,20.142016,Micropterus salmoides
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-34.010919,19.997917,Micropterus salmoides
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-34.011782,19.996056,Micropterus salmoides
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-33.79222,19.866843,Micropterus salmoides
+Social media,2013,Farm Dam,,Breede,Pond,Western Cape,-33.868554,20.121492,Micropterus salmoides
+Social media,2010,Fischerhaven,,Berg,Pond,Western Cape,-33.900021,18.74819,Micropterus salmoides
+Social media,2012,Fischerhaven,,Berg,Pond,Western Cape,-33.900021,18.74819,Micropterus dolomieu
+Social media,2011,Gariep Dam,Orange,Orange,Dam,Free State,-30.607186,25.566044,Micropterus salmoides
+Social media,2013,George Dam,Swart,Krom,Dam,Western Cape,-33.912002,22.493938,Micropterus salmoides
+Social media,2013,Golf Course Top,,Berg,Pond,Western Cape,-33.872001,18.612674,Micropterus salmoides
+Social media,2012,Gouritz River,Gouritz,Gouritz,River,Western Cape,-34.189334,21.63561,Micropterus dolomieu
+Social media,2012,Gouritz River,Gouritz,Gouritz,River,Western Cape,-34.189334,21.63561,Micropterus salmoides
+Social media,2012,GPJ Dam,,Berg,Pond,Western Cape,-34.435443,19.477108,Micropterus dolomieu
+Social media,2012,GPJ Dam,,Berg,Pond,Western Cape,-34.435443,19.477108,Micropterus punctulatus
+Social media,2012,GPJ Dam,,Berg,Pond,Western Cape,-34.435443,19.477108,Micropterus salmoides
+Social media,2012,GPJ house Dam,,Berg,Pond,Western Cape,-34.43573,19.474302,Micropterus salmoides
+Social media,2012,Groenvlei,,Krom,Lake,Western Cape,-34.029207,22.850382,Micropterus salmoides
+Social media,2008,Hazelmere Dam,Mdloti,Mkomazi,Dam,KwaZulu-Natal,-29.592528,31.037943,Micropterus salmoides
+Social media,2010,Heyshope Dam,Assegaai,Mfolozi,Dam,Mpumalanga,-26.993831,30.509892,Micropterus salmoides
+Social media,2009,Homestead Dam,,Vaal,Lake,Gauteng,-26.170961,28.287864,Micropterus salmoides
+Social media,2012,House Dam,,Berg,Pond,Western Cape,-34.434253,19.477153,Micropterus dolomieu
+Social media,2012,House Dam,,Berg,Pond,Western Cape,-34.434253,19.477153,Micropterus salmoides
+Social media,2008,Inanda ,Mngeni ,Mkomazi,Dam,KwaZulu-Natal,-29.67299,30.83622,Micropterus salmoides
+Social media,2009,Injaka Dam,Marite,Komati,Dam,Mpumalanga,-24.883595,31.07749,Micropterus salmoides
+Social media,2012,Klein Morewag,,Berg,Pond,Western Cape,-33.588124,18.722527,Micropterus salmoides
+Social media,2012,Klein River,Klein,Gamtoos,River,Western Cape,-34.429134,19.479001,Micropterus punctulatus
+Social media,2012,Klein River,Klein,Gamtoos,River,Western Cape,-34.429134,19.479001,Micropterus salmoides
+Social media,2011,Klerksdorp Dam,Skoonspruit,Vaal,Dam,North West,-26.812217,26.613564,Micropterus salmoides
+Social media,2016,Klerkskraal Dam,Mooi,Vaal,Dam,North West,-26.234457,27.151104,Micropterus salmoides
+Social media,2013,Koos Raubenheimer,Boesmans,Breede,Dam,Western Cape,-33.406081,22.283921,Micropterus salmoides
+Social media,2012,Kouga Dam,Kouga,Gamtoos,Dam,Eastern Cape,-33.701993,24.543285,Micropterus dolomieu
+Social media,2013,Kraaibos,Uilkraals,Berg,Dam,Western Cape,-34.563404,19.493952,Micropterus salmoides
+Social media,2009,Kwaggaskloof ,Doring,Olifants W,Dam,Western Cape,-33.771157,19.428635,Micropterus salmoides
+Social media,2015,Kwena Dam,Krokodil,Komati,Dam,Mpumalanga,-25.364425,30.37179,Micropterus salmoides
+Social media,2013,Landskroon,,Berg,Pond,Western Cape,-33.769765,18.901623,Micropterus salmoides
+Social media,2016,Loskop Dam,Olifants,Olifants N,Dam,Mpumalanga,-25.429594,29.337616,Micropterus salmoides
+Social media,2011,Magic Forest Bottom,,Berg,Pond,Western Cape,-33.859966,18.62173,Micropterus salmoides
+Social media,2012,Magic Forest Top,,Berg,Pond,Western Cape,-33.859734,18.616612,Micropterus salmoides
+Social media,2015,Marico Dam,Groot Marico,Limpopo,Dam,North West,-25.471996,26.395933,Micropterus salmoides
+Social media,2009,Middelberg Dam,Little Olifants ,Olifants N,Dam,Mpumalanga,-25.7803,29.552107,Micropterus salmoides
+Social media,2011,Middle Letaba Dam,Middle Letabe,Olifants N,Dam,Limpopo,-23.280537,30.403719,Micropterus salmoides
+Social media,2010,Midmar Dam,Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.502852,30.190001,Micropterus salmoides
+Social media,2012,Mofam(Palmiet river),Palmiet ,Berg,River,Western Cape,-34.226103,18.986735,Micropterus punctulatus
+Social media,2013,Mofam(Palmiet river),Palmiet ,Berg,River,Western Cape,-34.226103,18.986735,Micropterus salmoides
+Social media,2013,Murphy Dam,,Berg,Pond,Western Cape,-34.360505,19.256115,Micropterus dolomieu
+Social media,2013,Murphy Dam,,Berg,Pond,Western Cape,-34.360505,19.256115,Micropterus salmoides
+Social media,2009,Nagle Dam,Mgeni,Mkomazi,Dam,KwaZulu-Natal,-29.595607,30.639946,Micropterus salmoides
+Social media,2011,Nandoni Dam,Luvuvhu,Limpopo,Dam,Limpopo,-22.981153,30.589671,Micropterus salmoides
+Social media,2010,Nooitgedacht Dam,Komani,Komati,Dam,Mpumalanga,-25.973208,30.076489,Micropterus salmoides
+Social media,2013,Ongegund,,Berg,Pond,Western Cape,-34.113705,18.908243,Micropterus salmoides
+Social media,2013,Paarl,,Berg,Pond,Western Cape,-33.7576,18.802886,Micropterus salmoides
+Social media,2011,Petervale guest farm,Dwars,Breede,Pond,Western Cape,-33.363577,19.295251,Micropterus salmoides
+Social media,2013,Poortjies,Groot,Olifants W,Dam,Western Cape,-33.866638,20.372086,Micropterus salmoides
+Social media,2015,Potchefstroom Dam,Mooi,Vaal,Dam,North West,-26.67,27.097222,Micropterus salmoides
+Social media,2013,Princess Vlei,,Berg,Dam,Western Cape,-34.045939,18.474412,Micropterus salmoides
+Social media,2013,Private Dam,,Berg,Dam,Western Cape,-34.177583,18.977036,Micropterus salmoides
+Social media,2012,Provost,,Berg,Pond,Western Cape,-34.244162,19.0769,Micropterus salmoides
+Social media,2010,Quarry,,Berg,Pond,Western Cape,-33.882352,18.629014,Micropterus salmoides
+Social media,2013,Quarry,,Berg,Pond,Western Cape,-33.882352,18.629014,Micropterus dolomieu
+Social media,2011,Racetrack,,Vaal,Pond,Western Cape,-26.284411,28.13354,Micropterus salmoides
+Social media,2016,Rhenosterkop Dam,Elands,Olifants N,Dam,Mpumalanga,-25.107242,28.888171,Micropterus salmoides
+Social media,2015,Rietspruir Dam,Rietspruit,Vaal,Dam,North West,-26.407247,26.797547,Micropterus salmoides
+Social media,2012,Rietvlei Dam,Hennops,Limpopo,Dam,Gauteng,-25.878492,28.274603,Micropterus salmoides
+Social media,2011,Roodeplaat Dam,Pienaars ,Limpopo,Dam,Gauteng,-25.625721,28.371313,Micropterus salmoides
+Social media,2013,Rooikrantz,,Keiskamma,Pond,Eastern Cape,-32.755078,27.311867,Micropterus dolomieu
+Social media,2012,Rosendal,,Berg,Pond,Western Cape,-33.868082,18.646975,Micropterus salmoides
+Social media,2012,Rust de Winter Dam,Elands,Olifants N,Dam,Limpopo,-25.236932,28.511968,Micropterus salmoides
+Social media,2012,Rustfontein Dam,Modder,Vaal,Dam,Free State,-29.278126,26.609273,Micropterus salmoides
+Social media,2009,Rutter Road,Keysers,Berg,Pond,Western Cape,-34.0862,18.460786,Micropterus salmoides
+Social media,2013,Shongweni Dam,Mlazi,Mkomazi,Dam,KwaZulu-Natal,-29.856813,30.720816,Micropterus salmoides
+Social media,2012,Smallie Dam,,Berg,Pond,Western Cape,-34.434005,19.477722,Micropterus dolomieu
+Social media,2013,Somerset West,,Berg,Pond,Western Cape,-34.120332,18.894253,Micropterus salmoides
+Social media,2012,Spioenkop Dam,Tugela,Tugela,Dam,KwaZulu-Natal,-28.688705,29.481983,Micropterus salmoides
+Social media,2014,St. Ives ,,Mkomazi,Pond,KwaZulu-Natal,-29.455714,30.135707,Micropterus salmoides
+Social media,2013,St. Stithians Collage Dam,,Limpopo,Pond,Gauteng,-26.083427,28.011123,Micropterus salmoides
+Social media,2012,Stanford Dam,,Berg,Pond,Western Cape,-34.442964,19.452946,Micropterus salmoides
+Social media,2013,Stellenbosch,,Berg,Pond,Western Cape,-33.936595,18.827648,Micropterus salmoides
+Social media,2013,Stellenbosch,,Berg,Pond,Western Cape,-33.946546,18.869137,Micropterus salmoides
+Social media,2010,Stettynskloof,Holsloot ,Breede,Dam,Western Cape,-33.839303,19.242554,Micropterus dolomieu
+Social media,2012,Struben Dam,,Limpopo,Pond,Gauteng,-25.775721,28.278991,Micropterus salmoides
+Social media,2011,Taung Dam,Harts,Vaal,Dam,North West,-27.520261,24.851589,Micropterus salmoides
+Social media,2013,Theewaterskloof Dam,Riviersonderend,Breede,Dam,Western Cape,-34.014534,19.165993,Micropterus dolomieu
+Social media,2012,Toorbos,,Krom,Pond,Western Cape,-33.942519,22.675132,Micropterus salmoides
+Social media,2012,Top Dam,,Berg,Pond,Western Cape,-34.434118,19.480495,Micropterus dolomieu
+Social media,2012,Top Dam,,Berg,Pond,Western Cape,-34.434118,19.480495,Micropterus salmoides
+Social media,2012,Tulbagh farm Dam,,Berg,Pond,Western Cape,-33.227919,19.115481,Micropterus salmoides
+Social media,2011,Tygerfalls,,Berg,Pond,Western Cape,-33.875137,18.629261,Micropterus dolomieu
+Social media,2013,Tygerfalls,,Berg,Pond,Western Cape,-33.875137,18.629261,Micropterus salmoides
+Social media,2010,Vaal Dam ,Vaal,Vaal,Dam,Free State,-26.896353,28.133411,Micropterus salmoides
+Social media,2012,Volmoed,,Berg,Pond,Western Cape,-34.378074,19.232522,Micropterus salmoides
+Social media,2013,Whitehall,,Berg,Dam,Western Cape,-34.241963,19.094925,Micropterus salmoides
+Social media,2009,Wiesenhof,,Berg,Pond,Western Cape,-33.835007,18.885831,Micropterus salmoides
+Social media,2011,Wiesenhof,,Berg,Pond,Western Cape,-33.835007,18.885831,Micropterus dolomieu
+Social media,2011,Woodstock Dam,Tugela,Tugela,Dam,KwaZulu-Natal,-28.732216,29.218054,Micropterus salmoides
